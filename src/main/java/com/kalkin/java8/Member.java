@@ -1,4 +1,4 @@
-package main.java;
+package com.kalkin.java8;
 
 public class Member {
 

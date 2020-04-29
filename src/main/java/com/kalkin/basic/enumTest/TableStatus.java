@@ -1,4 +1,4 @@
-package main.java.enumTest;
+package com.kalkin.basic.enumTest;
 
 /**
  * 레거시 코드는 : ../legacy/TableStatusLegacy 참고

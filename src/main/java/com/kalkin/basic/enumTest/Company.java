@@ -1,4 +1,4 @@
-package main.java.enumTest;
+package com.kalkin.basic.enumTest;
 
 /**
  * enum 기본
